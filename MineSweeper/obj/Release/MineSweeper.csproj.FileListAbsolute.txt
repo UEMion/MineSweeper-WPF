@@ -1,0 +1,16 @@
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\bin\Release\MineSweeper.exe.config
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\bin\Release\MineSweeper.exe
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\bin\Release\MineSweeper.pdb
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Release\MainWindow.g.cs
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Release\App.g.cs
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Release\MineSweeper_MarkupCompile.cache
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Release\MineSweeper_MarkupCompile.lref
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Release\App.baml
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Release\MainWindow.baml
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Release\MineSweeper.g.resources
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Release\MineSweeper.Properties.Resources.resources
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Release\MineSweeper.csproj.GenerateResource.cache
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Release\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Release\MineSweeper.exe
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Release\MineSweeper.pdb
+C:\Users\yaoyi\Documents\Visual Studio 2017\Projects\MineSweeper\MineSweeper\obj\Release\MineSweeper.csprojResolveAssemblyReference.cache
