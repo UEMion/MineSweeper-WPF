@@ -1,2 +1,2 @@
-# WPF
-UEMion's WPF
+UEMion's MineSweeper
+====================
